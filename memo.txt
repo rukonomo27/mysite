@@ -1,0 +1,6 @@
+git config --global user.name "rukonomo27"
+git config --global user.email "rukonomo27@gmail.com"
+ssh-keygen -t ed25519 -C "rukonomo27@gmail.com"
+
+プッシュ先リモートリポジトリ
+git remote add origin git@github.com:rukonomo27/mysite.git
